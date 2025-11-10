@@ -27,6 +27,6 @@ Portage du site statique en application Next.js (App Router).
 **Notes**
 - Les anciens fichiers statiques (`index.html`, `css/`, `js/`, `asset/`, `favicon/`) ont été supprimés au profit de `nextjs-app/`.
 - Déploiement CI (GitHub Actions) et `vercel.json` retirés selon votre préférence Dashboard.
-- Maquette d’origine: https://giusmili.github.io/travel_word_project/
+- Maquette d’origine: [Publication](https://giusmili.github.io/travel_word_project/)
 
 © Powered by GiusMili - 2021
