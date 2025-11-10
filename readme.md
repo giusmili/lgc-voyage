@@ -29,4 +29,4 @@ Portage du site statique en application Next.js (App Router).
 - Déploiement CI (GitHub Actions) et `vercel.json` retirés selon votre préférence Dashboard.
 - Maquette d’origine: [Publication](https://giusmili.github.io/travel_word_project/)
 
-© Powered by GiusMili - 2021
+© Powered by GiusMili - 2025
