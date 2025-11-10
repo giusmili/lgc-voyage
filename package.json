@@ -1,23 +1,16 @@
 {
-  "name": "2-travel_agency",
+  "name": "travel-word-next",
   "version": "1.0.0",
-  "description": "![travel image](./asset/london2.jpg)\r [voir la maquette](https://giusmili.github.io/travel_word_project/)\r &copy; Powered by GiusMili - 2021",
-  "main": "index.js",
+  "private": true,
   "scripts": {
-    "build": "babel --no-babelrc src -w -d js --preset=env"
+    "dev": "next dev -p 3001",
+    "build": "next build",
+    "start": "next start -p 3001"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/giusmili/travel_word_project.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/giusmili/travel_word_project/issues"
-  },
-  "homepage": "https://github.com/giusmili/travel_word_project#readme",
-  "devDependencies": {
-    "babel-cli": "^6.26.0",
-    "babel-preset-env": "^1.7.0"
+  "dependencies": {
+    "next": "14.2.5",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "sweetalert2": "^11.10.0"
   }
 }
