@@ -1,0 +1,4 @@
+*.txt
+activity/
+src/
+node_modules/
